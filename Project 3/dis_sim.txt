@@ -1,0 +1,23 @@
+Cycle: 0
+Pre-Issue Buffer:
+Entry 0:-1
+Entry 1:-1
+Entry 2:-1
+Entry 3:-1
+Pre_ALU Queue:
+Entry 0:-1
+Entry 1:-1
+Post_ALU Queue:
+Entry 0:-1
+Entry 1:-1
+Pre_MEM Queue:
+Entry 0:-1
+Entry 1:-1
+Post_MEM Queue:
+Entry 0:-1
+Entry 1:-1
+Registers:
+R00:	0	0	0	0	0	0	0	0	
+R08	0	0	0	0	0	0	0	0	
+R16	0	0	0	0	0	0	0	0	
+R24	0	0	0	0	0	0	0	0	
